@@ -30,8 +30,7 @@ From-scratch Python implementations of fundamental image enhancement techniques 
 |-----------|------|-------------|
 | Histogram Equalization | `histogram_equalization.py` | Global contrast enhancement via CDF flattening |
 | Histogram Matching | `histogram_matching.py` | Matches histogram to a reference image |
-| Local Histogram Processing | `local_histogram.py` | Adaptive local equalization for fine details |
-| Histogram Statistics | `histogram_stats.py` | Enhancement based on local mean and variance |
+
 
 ## Requirements
 
